@@ -1,6 +1,6 @@
 ### Hi there!
 
-I'm currently working on some of my own projects during quarantine, as well as taking classes at York University online.
+I'm currently working on some of my own projects during quarantine, as well as taking classes at York University online.\n
 The best way to contact me is <a href="mailto:HusseinEsmailContact@gmail.com">here</a>.
 
 
