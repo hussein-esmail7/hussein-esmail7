@@ -1,7 +1,7 @@
 ### Hi there!
 
 <p>
-I'm currently working on some of my own projects during quarantine, as well as studying online for my 2nd year in CS at York University.
+I'm currently working on some of my own projects during quarantine, as well as studying online for my 3rd year in CS at York University.
 </p>
 <p>
 <a href="mailto:HusseinEsmailContact@gmail.com">The best way to contact me is here (HusseinEsmailContact@gmail.com)</a>
