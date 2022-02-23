@@ -9,8 +9,9 @@ I'm currently working on some of my own projects during quarantine, as well as s
 
 
 <div>
-	<p><a href="https://www.linkedin.com/in/husseinxyz"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=flat&logo=linkedin" alt="LinkedIn"</a></p>
-	<p><a href="https://www.instagram.com/husseinesmailcode"><img src="https://img.shields.io/badge/Instagram--_.svg?style=flat&logo=instagram" alt="Instagram"></a></p>
+	<a href="https://www.linkedin.com/in/husseinxyz"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn"</a>
+	<a href="https://www.instagram.com/husseinesmailcode"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&labelColor=E4405F&logoColor=white" alt="Instagram"></a>
+	<a href="https://www.reddit.com/user/random_introvert1"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white" alt="Reddit"></a>
 <div>
 
 ## Donate
